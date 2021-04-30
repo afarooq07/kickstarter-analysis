@@ -35,4 +35,9 @@ The scope of the project is to:
 	- The spreadsheet does not include economic conditions during the years which could have been a contributing factor in making a compaign successful
 
 - **What are some other possible tables and/or graphs that we could create?**
-Depending on what we are trying to evaluate, we can visual data in multiple ways such as stacked chart of outcomes by categories. This will help us visual how different categories performanced. We can create year filter to further drill down to years.
+ 
+ 	- Depending on what we are trying to evaluate, we can visual data in multiple ways such as stacked chart of outcomes by categories. This will help us visual how different categories performed. We can use year filter to further drill down and see stats for a year. Please see Outcomes_vs_Categories chart below.
+	- We can create a table of stats with mean and median values of goal and pledged amounts. This will be another way to find a correlation between goal amounts and success rate 
+	- Another possibility is to create a pie chart to show percentage of successful, failed etc outcomes for given category or sub-category. 
+
+![](/resources/Outcomes_vs_Categories.png)
