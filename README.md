@@ -9,9 +9,20 @@ The scope of the project is to analyze crowdfunding campaigns in the past years 
 
 ## Analysis and Challenges
 
-
+The analysis for this report require two types of charts:
+	- Outcomes Based on Launch Date
+	- Outcomes Based on Goals
+	
 ### Analysis of Outcomes Based on Launch Date
+For this part of the analysis, the chart was created based on a pivot table that provides a breakdown of outcomes by launch date months. Pivot table/chart was created as follows: 
+- Launched date as rows, row labels were changed to display months
+- Outcomes were represented as columns, blank and 'live' values were ignored for the analysis
+- Two filters were provided, 1) Parent Categories and 2) YEAR to provide further drilldown capability
+	
 ![](/resources/Theater_Outcomes_vs_Launch.png)
+
+
+![](/resources/Outcomes_vs_Categories_Pivot_Table.png)
 
 
 ### Analysis of Outcomes Based on Goals
