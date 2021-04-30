@@ -22,9 +22,6 @@ For this part of the analysis, the chart was created based on a pivot table that
 ![](/resources/Theater_Outcomes_vs_Launch.png)
 
 
-![](/resources/Outcomes_vs_Categories_Pivot_Table.png)
-
-
 ### Analysis of Outcomes Based on Goals
 ![](/resources/Outcomes_vs_Goals.png)
 
