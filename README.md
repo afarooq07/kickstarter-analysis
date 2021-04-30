@@ -42,8 +42,12 @@ The scope of the project is to analyze crowdfunding campaigns in the past years 
  	- We can create a similar chart as above with "Outcomes vs Countries" to see where most of the campaigns were held. (Please refer to Outcomes_vs_Countries chart below)
 	- We can create a table of stats with mean and median values of goal and pledged amounts. This will be another way to find a correlation between goal amounts and success rate 
 	- Another possibility is to create a pie chart to show percentage of successful, failed etc outcomes for given category or sub-category if we want to focus on a specific area.
+	- The last chart (please refer to "Yearly Outcomes by Categories") shows how campaigns in different categories performaned over the years. We can see that largest number of theater related compaigns were launched in years 2014, 2015 and 2016. WE acn also change it to 100% stacked chart to see success and failure rates 
 
 ![](/resources/Outcomes_vs_Categories.png)
 
 
 ![](/resources/Outcomes_vs_Countries.png)
+
+
+![](/resources/Yearly_Outcomes_by_Categories.png)
