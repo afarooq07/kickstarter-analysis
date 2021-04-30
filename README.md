@@ -23,9 +23,21 @@ For this part of the analysis, the chart was created based on a pivot table that
 
 
 ### Analysis of Outcomes Based on Goals
+
+For the second part of the analysis, a table was created to show computed stats based on funding goal amount. This was accomplished using COUNTIF function to collect outcomes for "Play" Category based on funding goal amount range. For each goal range amount:
+ 
+- total succesfull, failed and cancelled outcomes with counted
+- Percentages of succesful, failed and cancelled outcomes were generated using the number above
+- a chart was created using goal amount ranges and percentages for comparison
+
 ![](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+
+- Pivot Table and Charts: While we learned how to create a pivot chart using two variables such as outcomes vs categories in the class, it took some practice to:
+	-  determine how to include a third attribute to the chart such as years. Moreover,  So if the intention is to view yearly outcomes vs categories, a stacked chart provides a good visualization
+	-  evaluate how different charts visualize information and to find the right ones for different scenarios. 
+- For "Outcomes by Goals" chart, the underlying table requires specific goal ranges. This resulted in hardcoding of upper and lower bounds in COUNTIF function for every row. The downside of this approach is that an update to the range would require updates to COUNTIF formula for all cells. I tried to define two columns to hold upper/lower bounds and use the cell references in the formula but due to lack of time, I could not fully implement it. The idea was to localize the change. It was later in module two that we learned VBA which seems to be a good solution to generate a table like this.
 
 ## Results
 
