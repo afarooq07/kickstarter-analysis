@@ -40,4 +40,3 @@ The scope of the project is to:
 	- We can create a table of stats with mean and median values of goal and pledged amounts. This will be another way to find a correlation between goal amounts and success rate 
 	- Another possibility is to create a pie chart to show percentage of successful, failed etc outcomes for given category or sub-category. 
 
-![](/resources/Outcomes_vs_Categories.png)
