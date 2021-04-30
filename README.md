@@ -1,11 +1,11 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The scope of the project is to:
-- Analyze crowdfunding campaigns in the past years (2009-2017) in theater category and determine if there are any specific factors that make campaigns successful
-- Evaluate how these past campaigns performed compared to Louise's campaign for her play *Fever*.
+An up and coming play writer Lousie launched a fundraising campaign to fund her play, Fever. The campaign lasted about a month and fell a little short of original goal amount. Now she would like to know how different compaigns compare in relation to their launch dates and funding goals.
 
-### Purpose
+
+The scope of the project is to analyze crowdfunding campaigns in the past years (2009-2017) and determine if there are any specific factors that make campaigns successful. Evaluation will be done in excel using pivot tables and charts to visual campaign outcomes vs launch dates and funding goals to uncover trends.
+
 
 ## Analysis and Challenges
 
@@ -32,7 +32,8 @@ The scope of the project is to:
 	- The dataset does not indicate the type of fund raising/marketing strategy employed to draw attention and raise funds. For example, donation based or rewards based etc. 
 	- There aren't any details regarding initial captial used to setup the fundraiser 
 	- There is no information on cities/regions where the fundraiser was hosted, so it is impossible to guage if there is a correlation between geography and outcomes
-	- The spreadsheet does not include economic conditions during the years which could have been a contributing factor in making a compaign successful
+	- The spreadsheet does not include economic conditions during the years which could have been a contributing factor in making a compaign successful.
+
 
 - **What are some other possible tables and/or graphs that we could create?**
  
