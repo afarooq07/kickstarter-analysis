@@ -54,7 +54,7 @@ A chart was then created using goal amount ranges and percentages for comparison
 	- There aren't any details regarding initial capital used to setup the fundraiser.
 	- There is no information on cities/regions where the fundraiser was hosted, so it is impossible to gauge if there is a correlation between geography and outcomes.
 	- The spreadsheet does not include economic conditions during the years which could have been a contributing factor in making a campaign successful.
-	- The dataset mostly contains information on US campaigns. So it may not be beneficial for someone in Australia to use this data to plan a fundraiser.
+	- The dataset mostly contains information on US campaigns. So, it may not be beneficial for someone in Australia to use this data to plan a fundraiser.
 
 
 - **What are some other possible tables and/or graphs that we could create?**
@@ -63,7 +63,7 @@ A chart was then created using goal amount ranges and percentages for comparison
  	- We can create a similar chart as above with "Outcomes vs Countries" to see where most of the campaigns were held. (Please refer to Outcomes_vs_Countries chart below).
 	- We can create a table of stats with mean and median values of goal and pledged amounts. This will be another way to find a correlation between goal amounts and success rate. 
 	- Another possibility is to create a pie chart to show percentage of successful, failed etc. outcomes for given category or sub-category if we want to focus on a specific area.
-	- The last chart (please refer to "Yearly Outcomes by Categories") shows how campaigns in different categories performed over the years. We can see that largest number of theater related campaigns were launched in years 2014, 2015 and 2016. WE can also change it to 100% stacked chart to see success and failure rates 
+	- The last chart (please refer to "Yearly Outcomes by Categories") shows how campaigns in different categories performed over the years. We can see that largest number of theater related campaigns were launched in years 2014, 2015 and 2016. WE can also change it to 100% stacked chart to see success and failure rates. 
 
 ![](/resources/Outcomes_vs_Categories.png)
 
