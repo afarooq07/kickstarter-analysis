@@ -44,7 +44,7 @@ A chart was then created using goal amount ranges and percentages for comparison
 
 - **What are two conclusions you can draw about the Outcomes based on Launch Date?**
 	- May is the most successful month across all years for launching campaigns, with June as the second successful month.
-	- December has the lowest success rate with only 50% campaigns hitting their goals, so not a good month to launch a fund raising campaign.
+	- December has the lowest success rate with only 50% campaigns hitting their goals, so not a good month to launch a fund-raising campaign.
 
 - **What can you conclude about the Outcomes based on Goals?**
 	- Campaigns with more than 70% success rate had a goal of $5000 or less, with the mean goal of successful campaigns at $5049. This implies that campaigns with a goal of $5000 or less have a greater chance of succeeding.
@@ -52,7 +52,7 @@ A chart was then created using goal amount ranges and percentages for comparison
 - **What are some limitations of this dataset?**
 	- The dataset does not indicate the type of fund raising/marketing strategy employed to draw attention and raise funds. For example, donation-based or rewards-based etc. 
 	- There aren't any details regarding initial capital used to setup the fundraiser.
-	- There is no information on cities/regions where the fundraiser was hosted, so it is impossible to gauge if there is a correlation between geography and outcomes
+	- There is no information on cities/regions where the fundraiser was hosted, so it is impossible to gauge if there is a correlation between geography and outcomes.
 	- The spreadsheet does not include economic conditions during the years which could have been a contributing factor in making a campaign successful.
 	- The dataset mostly contains information on US campaigns. So it may not be beneficial for someone in Australia to use this data to plan a fundraiser.
 
