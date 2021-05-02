@@ -26,7 +26,7 @@ For this part of the analysis, the chart was created based on a pivot table that
 
 For the second part of the analysis, a table was created to show computed stats based on funding goal amount. This was accomplished using COUNTIF function to collect outcomes for "Play" Category based on funding goal amount range. For each goal range amount:
  
-- Total succesful, failed and cancelled outcomes were counted.
+- Total successful, failed and cancelled outcomes were counted.
 - Percentages of successful, failed and cancelled outcomes were generated using the numbers above.
 
 A chart was then created using goal amount ranges and percentages for comparison.
@@ -36,7 +36,7 @@ A chart was then created using goal amount ranges and percentages for comparison
 ### Challenges and Difficulties Encountered
 
 - Pivot Table and Charts: While we learned how to create a pivot chart using two variables such as outcomes vs categories in the class, it took some practice to:
-	-  Determine how to include a third attribute to the chart such as years. Moreover, if the intention is to view yearly outcomes vs categories, a stacked chart provides a good visualization
+	-  Determine how to include a third attribute to the chart such as years. Moreover, if the intention is to view yearly outcomes vs categories, a stacked chart provides a good visualization.
 	-  Evaluate how different charts visualize information and to find the right ones for different scenarios. 
 - For "Outcomes by Goals" chart, the underlying table requires specific goal ranges. This resulted in hardcoding of upper and lower bounds in COUNTIF function for every row. The downside of this approach is that an update to the range would require updates to COUNTIF formula for all cells. I tried to define two columns to hold upper/lower bounds and use the cell references in the formula but due to lack of time, I could not fully implement it. The idea was to localize the change. It was later in module two that we learned VBA which seems to be a good solution to generate a table like this.
 
@@ -51,7 +51,7 @@ A chart was then created using goal amount ranges and percentages for comparison
 
 - **What are some limitations of this dataset?**
 	- The dataset does not indicate the type of fund raising/marketing strategy employed to draw attention and raise funds. For example, donation-based or rewards-based etc. 
-	- There aren't any details regarding initial capitial used to setup the fundraiser .
+	- There aren't any details regarding initial capital used to setup the fundraiser.
 	- There is no information on cities/regions where the fundraiser was hosted, so it is impossible to gauge if there is a correlation between geography and outcomes
 	- The spreadsheet does not include economic conditions during the years which could have been a contributing factor in making a campaign successful.
 	- The dataset mostly contains information on US campaigns. So it may not be beneficial for someone in Australia to use this data to plan a fundraiser.
