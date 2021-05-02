@@ -60,15 +60,20 @@ A chart was then created using goal amount ranges and percentages for comparison
 - **What are some other possible tables and/or graphs that we could create?**
  
  	- Depending on what we are trying to evaluate, we can visual data in multiple ways such as stacked chart of outcomes by categories. This will help us visual how different categories performed. We can use year filter to further drill down and see stats for a year. (Please refer to Outcomes_vs_Categories chart below).
- 	- We can create a similar chart as above with "Outcomes vs Countries" to see where most of the campaigns were held. (Please refer to Outcomes_vs_Countries chart below).
-	- We can create a table of stats with mean and median values of goal and pledged amounts. This will be another way to find a correlation between goal amounts and success rate. 
+ 	- We can create a similar chart as above with "Outcomes vs Countries" to see where most of the campaigns were held. (Please refer to Outcomes_vs_Countries chart below)	
 	- Another possibility is to create a pie chart to show percentage of successful, failed etc. outcomes for given category or sub-category if we want to focus on a specific area.
 	- The last chart (please refer to "Yearly Outcomes by Categories") shows how campaigns in different categories performed over the years. We can see that largest number of theater related campaigns were launched in years 2014, 2015 and 2016. WE can also change it to 100% stacked chart to see success and failure rates. 
+	- We can create a table of stats with mean and median values of goal and pledged amounts. This will be another way to find a correlation between goal amounts and success rate (Please review the last image from excel). 
 
-![](/resources/Outcomes_vs_Categories.png)
-
-
-![](/resources/Outcomes_vs_Countries.png)
+![](/resources/Outcomes_vs_Categories.png)  
 
 
-![](/resources/Yearly_Outcomes_by_Categories.png)
+![](/resources/Outcomes_vs_Countries.png)  
+
+
+![](/resources/Yearly_Outcomes_by_Categories.png)  
+
+
+![](/resources/Mean_Median_Stats.png)  
+
+
