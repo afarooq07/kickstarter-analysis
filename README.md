@@ -36,7 +36,7 @@ A chart was then created using goal amount ranges and percentages for comparison
 ### Challenges and Difficulties Encountered
 
 - Pivot Table and Charts: While we learned how to create a pivot chart using two variables such as outcomes vs categories in the class, it took some practice to:
-	-  Determine how to include a third attribute to the chart such as years. Moreover, if the intention is to view yearly outcomes vs categories, a stacked chart provides a good visualization.
+	-  Determine how to include a third attribute to the chart such as years. For example, if the intention is to view yearly outcomes vs categories, a stacked chart provides a good visualization.
 	-  Evaluate how different charts visualize information and to find the right ones for different scenarios. 
 - For "Outcomes by Goals" chart, the underlying table requires specific goal ranges. This resulted in hardcoding of upper and lower bounds in COUNTIF function for every row. The downside of this approach is that an update to the range would require updates to COUNTIF formula for all cells. I tried to define two columns to hold upper/lower bounds and use the cell references in the formula but due to lack of time, I could not fully implement it. The idea was to localize the change. It was later in module two that we learned VBA which seems to be a good solution to generate a table like this.
 
